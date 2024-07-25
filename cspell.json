@@ -76,6 +76,8 @@
     "importee",
     "Inctive",
     "indicatif",
+    "insta",
+    "instanceof",
     "Instantiator",
     "jfif",
     "JIDA",
@@ -182,12 +184,7 @@
     "wasmer",
     "wechat",
     "xlink",
-    "Yuxi",
-    "wasmer",
-    "primevue",
-    "shulan",
-    "globset",
-    "instanceof"
+    "Yuxi"
   ],
   "ignorePaths": [
     "pnpm-lock.yaml",
